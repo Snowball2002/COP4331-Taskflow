@@ -1,0 +1,11 @@
+ID,Title,Description,Due Date,Due Date String,Priority,Status,Category,Tags,Reminder Time,Created At,Updated At,Dependencies
+task-001,Complete Final Project,Finish the TaskFlow application and submit all documentation,2024-12-15T09:00:00,December 15 at 9 AM,HIGH,PENDING,COP4331,project;urgent;final,2024-12-15T08:30:00,2024-12-10T10:00:00,2024-12-10T10:00:00,
+task-002,Study for Final Exam,Review all course materials and practice problems,2024-12-20T14:00:00,December 20 at 2 PM,HIGH,PENDING,School,exam;study,2024-12-20T13:30:00,2024-12-10T10:05:00,2024-12-10T10:05:00,
+task-003,Buy Groceries,Milk eggs bread and vegetables,2024-12-12T18:00:00,Tomorrow evening,MEDIUM,PENDING,Personal,shopping,2024-12-12T17:30:00,2024-12-11T08:00:00,2024-12-11T08:00:00,
+task-004,Team Meeting,Discuss project progress with group members,2024-12-13T15:00:00,Friday 3 PM,MEDIUM,PENDING,COP4331,meeting;team,2024-12-13T14:45:00,2024-12-10T11:00:00,2024-12-10T11:00:00,
+task-005,Review Code,Check for bugs and test all features,2024-12-14T16:00:00,Next week,LOW,PENDING,COP4331,testing;code-review,2024-12-14T15:00:00,2024-12-10T12:00:00,2024-12-10T12:00:00,
+task-006,Write Report,Complete the final project report,2024-12-16T23:59:00,December 16,HIGH,PENDING,COP4331,report;documentation,2024-12-16T23:29:00,2024-12-10T13:00:00,2024-12-10T13:00:00,
+task-007,Exercise,Go for a 30-minute run,2024-12-12T07:00:00,Tomorrow morning,LOW,PENDING,Personal,health;exercise,2024-12-12T06:30:00,2024-12-11T09:00:00,2024-12-11T09:00:00,
+task-008,Call Mom,Check in with family,2024-12-12T19:00:00,Tonight,LOW,PENDING,Personal,family,2024-12-12T18:30:00,2024-12-11T10:00:00,2024-12-11T10:00:00,
+task-009,Prepare Presentation,Create slides for project demo,2024-12-15T10:00:00,December 15,MEDIUM,PENDING,COP4331,presentation;demo,2024-12-15T09:30:00,2024-12-10T14:00:00,2024-12-10T14:00:00,
+task-010,Backup Files,Save all project files to external drive,2024-12-13T20:00:00,Friday night,LOW,PENDING,Personal,backup;important,2024-12-13T19:00:00,2024-12-11T11:00:00,2024-12-11T11:00:00,

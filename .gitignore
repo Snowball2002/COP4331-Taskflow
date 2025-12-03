@@ -1,0 +1,35 @@
+# Compiled class files
+bin/
+*.class
+
+# JAR files
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - remove if you want to include sample data)
+taskflow_data.json
+taskflow_preferences.json
+taskflow_theme.json
+
+# Javadoc (optional - remove if you want to include generated docs)
+javadocs/
+docs-readme-finalreport/javadocs/
+
+# Build artifacts
+*.zip
+
+# JDK files
+jdk.zip
+jdk-portable.zip
+
