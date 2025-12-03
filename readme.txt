@@ -3,7 +3,7 @@ TaskFlow - Task Management Application
 
 Author: Paolo Lauricella
 Course: COP4331 - Object-Oriented Programming
-Date: 2024
+
 
 DESCRIPTION
 -----------
